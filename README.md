@@ -16,7 +16,7 @@ I'm an IT professional with a background in technical support, cloud computing, 
 - 🏅 [AWS Certified Cloud Practitioner]
 - 🏅 [AWS Certified Solutions Architect - Associate]
 - 🏅 [AWS Certified AI Practitioner]
-- 📜 [Postgraduate Diploma in Project Management](#)
+
 
 ---
 
