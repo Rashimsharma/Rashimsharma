@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Rashim 
-🎯 IT Professional | AWS Cloud Enthusiast | Project Management Certified
+🎯 IT Professional | AWS Cloud Enthusiast 
 
 ---
 
